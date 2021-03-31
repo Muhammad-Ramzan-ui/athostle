@@ -1,0 +1,1 @@
+localy data is enterd to file;
