@@ -1,6 +1,3 @@
-
-localy data is enterd to file;
-
 Text is added for intial purpose
 second line is added
-
+localy data is enterd to file;
